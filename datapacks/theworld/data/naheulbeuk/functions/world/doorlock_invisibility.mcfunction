@@ -1,0 +1,1 @@
+effect give @e[name="door lock"] minecraft:invisibility 1 1 true
