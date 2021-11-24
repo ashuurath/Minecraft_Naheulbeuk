@@ -1,0 +1,1 @@
+tellraw @p ["Fermier Norbert : débarrassé nous du livre maudit qui attire les zombies et vous pourrez passer!"]
