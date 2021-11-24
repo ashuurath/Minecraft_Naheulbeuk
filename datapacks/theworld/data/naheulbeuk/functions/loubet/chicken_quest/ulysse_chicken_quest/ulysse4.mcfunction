@@ -1,0 +1,2 @@
+tellraw @p ["Grand-père Ulysse : Prend ce bâton, je l'ai fait enchanter exprès pour une telle occasion."]
+give @p minecraft:stick{display:{Name:'[{"text":"Bâton du poulet errant","color":"gold","bold":true}]',Lore:['{"text":"Pour les attraper tous !","italic":true}']}} 1
