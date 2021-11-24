@@ -1,0 +1,2 @@
+teleport @e[limit=1,tag=ninja,tag=loubet] -348 15 1911 facing -345 16 1911
+data merge entity @e[type=armor_stand,tag=ninja,limit=1] {Pose:{RightArm:[0f,0f,0f],LeftArm:[0f,0f,0f],RightLeg:[-45f,0f,0f],LeftLeg:[45f,0f,0f]},NoGravity:1b,NoBasePlate:1b,Tags:["ninja","loubet"],HandItems:[{id:"minecraft:redstone_torch",Count:1b},{}],ArmorItems:[{id:"minecraft:leather_boots",Count:1b,tag:{display:{color:0}}},{id:"minecraft:leather_leggings",Count:1b,tag:{display:{color:0}}},{id:"minecraft:leather_chestplate",Count:1b,tag:{display:{color:0}}},{id:"minecraft:player_head",Count:1b}]}

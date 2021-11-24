@@ -1,0 +1,1 @@
+teleport @e[limit=1,tag=ninja,tag=loubet] -325 18 1914

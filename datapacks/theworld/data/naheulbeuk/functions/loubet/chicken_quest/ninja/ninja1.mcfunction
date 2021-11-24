@@ -1,0 +1,1 @@
+teleport @e[limit=1,tag=ninja,tag=loubet] -336 10 1921 facing -336 10 1920
