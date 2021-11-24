@@ -1,0 +1,1 @@
+tellraw @p ["Thriton le pecheur : Tien prend cet arc et cette flèche, il est spécial."]

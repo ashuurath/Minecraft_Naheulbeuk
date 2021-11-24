@@ -1,0 +1,1 @@
+tellraw @p ["Thriton le pecheur : Fait ce que tu veux mais qu'elle parte!"]

@@ -1,0 +1,2 @@
+execute at @e[type=minecraft:armor_stand,tag=pirana7] run playsound minecraft:entity.pirana.ambient hostile @p ~ ~ ~ 0.8 1 0.2
+schedule function naheulbeuk:loubet/chicken_quest/pirana/playsound_loop 20s

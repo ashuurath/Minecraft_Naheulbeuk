@@ -1,0 +1,2 @@
+execute at @e[type=minecraft:armor_stand,limit=1,tag=pirana1] run teleport @e[limit=1,type=armor_stand,tag=pirana1] ^ ^-1 ^
+execute at @e[type=minecraft:slime,limit=1,tag=slime1] run teleport @e[limit=1,type=slime,tag=slime1] ^ ^-1 ^

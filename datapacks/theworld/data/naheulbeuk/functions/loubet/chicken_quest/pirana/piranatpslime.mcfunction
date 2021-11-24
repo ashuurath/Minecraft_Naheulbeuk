@@ -1,0 +1,1 @@
+tp @e[type=minecraft:slime,tag=piranahealth] -531 7 1779

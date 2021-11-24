@@ -1,0 +1,1 @@
+summon minecraft:boat -425 9 1879 {Invulnerable:1b,Type:"oak",Rotation:[-180F,0F],Passengers:[{id:"minecraft:villager",Invulnerable:1b,NoAI:1b,Rotation:[-180F,0F],HandItems:[{id:"minecraft:torch",Count:1b},{}],VillagerData:{level:1,profession:"minecraft:fisherman",type:"minecraft:plains"},Offers:{}}]}

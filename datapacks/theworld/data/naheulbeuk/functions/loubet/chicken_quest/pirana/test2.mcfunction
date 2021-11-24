@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~-2 {Passengers:[{id:"minecraft:slime",NoGravity:1b,Silent:1b,NoAI:1b,Health:200f,Tags:["piranahealth"],Attributes:[{Name:generic.maxHealth,Base:200}]}],Tags:["pirana1","piranakill"],Small:1,DisabledSlots:4096,Invisible:1,NoGravity:1,ArmorItems:[{},{},{},{Count:1,id:gold_block}]}
