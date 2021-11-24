@@ -1,0 +1,1 @@
+tellraw @p ["Mère Isabelle : Amuse-toi bien."]
