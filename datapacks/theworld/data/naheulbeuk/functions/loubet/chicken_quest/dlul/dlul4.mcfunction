@@ -1,0 +1,1 @@
+title @p actionbar {"text":"... Z z z ... Z z z ...","color":"blue","bold":true}

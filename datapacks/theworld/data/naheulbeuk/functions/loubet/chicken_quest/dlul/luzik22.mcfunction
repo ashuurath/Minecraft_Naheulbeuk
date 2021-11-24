@@ -1,0 +1,1 @@
+tellraw @p ["Luzik Le Mou : Tu peut rentrer maintenant...Zzzzzzzz..."]

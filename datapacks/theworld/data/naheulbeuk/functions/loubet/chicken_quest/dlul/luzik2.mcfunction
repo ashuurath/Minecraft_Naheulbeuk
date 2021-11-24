@@ -1,0 +1,1 @@
+tellraw @p ["Luzik Le Mou : ah non les portes du temple de Dlul ne sont ouverte que pour ceux bénis."]
