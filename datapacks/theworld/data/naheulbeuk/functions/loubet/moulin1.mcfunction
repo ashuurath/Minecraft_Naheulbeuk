@@ -1,0 +1,2 @@
+execute if entity @a[x=-375,y=10,z=1980,distance=..100] run clone -345 4 2028 -351 10 2030 -378 7 1979 replace
+execute if entity @a[x=-375,y=10,z=1980,distance=..100] run clone -327 4 2048 -323 4 2052 -377 14 1970 replace

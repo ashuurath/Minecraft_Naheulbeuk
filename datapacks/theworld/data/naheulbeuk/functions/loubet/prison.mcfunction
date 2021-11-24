@@ -1,1 +1,2 @@
-
+execute if block -358 10 1960 minecraft:air run function naheulbeuk:loubet/prison1
+execute unless block -358 10 1960 minecraft:iron_bars[ east= true , west= true] run function naheulbeuk:loubet/prison2

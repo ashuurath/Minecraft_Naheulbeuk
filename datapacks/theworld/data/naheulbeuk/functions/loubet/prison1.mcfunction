@@ -1,0 +1,1 @@
+fill -358 10 1960 -358 11 1960 minecraft:iron_bars[ east= true , west= true]
