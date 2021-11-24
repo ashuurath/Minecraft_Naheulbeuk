@@ -1,0 +1,1 @@
+execute at @e[type=fireball,sort=nearest,limit=1] facing entity @p eyes run summon minecraft:armor_stand ^ ^ ^2 {NoGravity:1b,Invisible:1b,Tags:["fire"]}

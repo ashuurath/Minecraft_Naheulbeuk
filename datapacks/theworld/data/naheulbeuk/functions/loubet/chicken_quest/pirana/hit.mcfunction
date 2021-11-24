@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:slime,limit=1] at @s if entity @e[type=slime,nbt={HurtTime:10s},limit=1] run function naheulbeuk:loubet/chicken_quest/pirana/health
+schedule function naheulbeuk:loubet/chicken_quest/pirana/hit 1t
