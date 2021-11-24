@@ -1,0 +1,1 @@
+tellraw @p {"text":"Raymond : Par contre, fais attention à ne pas te tromper, je suis peut-être une poule,"}

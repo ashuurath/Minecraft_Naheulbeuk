@@ -1,0 +1,1 @@
+tellraw @p {"text":"Raymond : Et je retournerais à ce foutu enclos."}

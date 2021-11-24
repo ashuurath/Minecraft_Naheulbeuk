@@ -1,0 +1,1 @@
+tellraw @p {"text":"Raymond : Pas simple vos rires machiavéliques."}

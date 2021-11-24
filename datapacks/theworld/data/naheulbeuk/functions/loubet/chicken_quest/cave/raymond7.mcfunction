@@ -1,0 +1,1 @@
+tellraw @p {"text":"Raymond : Mais la c'est moi le maître MOUHAHAHAHAHA... Kofkofcot... cot,"}

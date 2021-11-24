@@ -1,0 +1,1 @@
+tellraw @p ["Nanar l'aubergiste : Je pense qu'un des poulets de ton grand père est dans la cave."]

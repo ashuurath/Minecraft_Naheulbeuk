@@ -1,0 +1,1 @@
+tellraw @p {"text":"Raymond : Vois tu ici, tu te trouves dans mon esprit et oui tu es dans l'esprit d'une poule..."}

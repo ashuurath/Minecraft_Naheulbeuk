@@ -1,0 +1,1 @@
+tellraw @p {"text":"Raymond : Voilà le deal, trouve mon double dans mon esprit"}
