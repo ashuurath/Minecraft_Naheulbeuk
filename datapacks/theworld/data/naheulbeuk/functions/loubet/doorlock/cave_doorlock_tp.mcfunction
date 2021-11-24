@@ -1,1 +1,1 @@
-
+tp @e[tag=door_cave] -361 4 2138

@@ -1,0 +1,1 @@
+tp @e[tag=door_ranger] -361 4 2138
